@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关于作者",
+  "usingComponents": {
+    "van-image": "../../components/dist/image/index",
+    "van-icon": "../../components/dist/icon/index"
+  }
+}

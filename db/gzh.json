@@ -1,0 +1,16 @@
+{
+    "_id": "gzh",
+    "title": "记录生活的打工仔",
+    "coupon": [
+        {
+            "name": "开发工具",
+            "type": 3.0,
+            "bannerPic": "cloud://pro-8go66c0n35be910b.7072-pro-8go66c0n35be910b-1304759616/gzh/gzh20_11_12.png",
+            "icon": "../../images/cpIcon/logo.png",
+            "minapp": {
+                "appid": "logincat",
+                "path": "https://mp.weixin.qq.com/s/DwnTrbAIyRkiFddf3TvDBA"
+            }
+        }
+    ]
+}

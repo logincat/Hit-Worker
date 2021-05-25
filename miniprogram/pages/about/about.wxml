@@ -1,0 +1,33 @@
+<view class="login-bg logo-bg-color">
+  <van-image round width="5rem" height="5rem" src="/images/cpIcon/logo.png" />
+  <view class="user-name">logincat</view>
+</view>
+
+<view class="wrap">
+ 
+  <view class="list_view">
+    <view class="list">
+      <view class="list_title"><van-icon name="edit" /></view>
+      <view class="list_content">{{edit_show}}</view>
+    </view>
+    <view class="list" bindtap="copyIt" data-text="logincat@163.com">
+      <view class="list_title"><van-icon name="envelop-o" /></view>
+      <view class="list_content">logincat@163.com</view>
+    </view>
+    <view class="list" bindtap="copyIt" data-text="logincat.github.io">
+      <view class="list_title"><van-icon name="fire-o" /></view>
+      <view class="list_content">快速:logincat.gitee.io | 科学:logincat.github.io</view>
+    </view>
+  </view>
+
+  <view class="list_view menu_view">
+    <view class="list" bindtap="author">
+      <view class="list_title">关于</view>
+      <view class="list_content"><van-icon name="arrow" /></view>
+    </view>
+    <view class="list" bindtap="feedback">
+      <view class="list_title">反馈</view>
+      <view class="list_content"><van-icon name="arrow" /></view>
+    </view>
+  </view>
+</view>

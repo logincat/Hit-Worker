@@ -1,0 +1,37 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/about/about",
+        "pages/gzh/gzh",
+        "pages/author/author"
+    ],
+    "window": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "打工人干饭",
+        "navigationBarBackgroundColor": "#0bb9b6",
+        "backgroundColor": "#FFFFFF"
+    },
+    "tabBar": {
+        "selectedColor": "#fdb12b",
+        "color": "#c3c3c3",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "images/tabBar/index_unselect.png",
+                "selectedIconPath": "images/tabBar/index_select.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/about/about",
+                "iconPath": "images/tabBar/author_unselect.png",
+                "selectedIconPath": "images/tabBar/author_select.png",
+                "text": "关于作者"
+            }
+        ]
+    },
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "sitemapLocation": "sitemap.json"
+}

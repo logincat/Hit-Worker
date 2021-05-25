@@ -1,0 +1,32 @@
+{
+    "_id": "ele",
+    "title": "饿了么",
+    "coupon": [{
+        "name": "饿了么无门槛",
+        "type": 2.0,
+        "bannerPic": "cloud://pro-8go66c0n35be910b.7072-pro-8go66c0n35be910b-1304759616/bannerPic/elewmk.jpg",
+        "icon": "../../cpIcon/ele.png",
+        "minapp": {
+            "appid": "wxece3a9a4c82f58c9",
+            "path": "taoke/pages/shopping-guide/index?scene=rHtKtru"
+        }
+    }, {
+        "name": "饿了么满减",
+        "type": 2.0,
+        "bannerPic": "cloud://pro-8go66c0n35be910b.7072-pro-8go66c0n35be910b-1304759616/bannerPic/elemj.jpg",
+        "icon": "../../cpIcon/ele.png",
+        "minapp": {
+            "appid": "wxece3a9a4c82f58c9",
+            "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/FOB39su"
+        }
+    }, {
+        "name": "饿了么天天抢",
+        "type": 1.0,
+        "bannerPic": "cloud://pro-8go66c0n35be910b.7072-pro-8go66c0n35be910b-1304759616/bannerPic/elettq.jpg",
+        "icon": "../../cpIcon/ele.png",
+        "minapp": {
+            "appid": "wxece3a9a4c82f58c9",
+            "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/wQTz8su"
+        }
+    }]
+}

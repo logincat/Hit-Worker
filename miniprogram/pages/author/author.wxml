@@ -1,0 +1,18 @@
+<view class="abimgbox">
+  <van-image round width="5rem" height="5rem" src="/images/logo.jpg" />
+  <view class="fs30 logntext">
+    打工人干饭
+  </view>
+  <view class="mybbox">
+    <view class="mybox">
+      <view class="imgbox">
+        <image src="/images/logo.jpg" class="myimg" />
+      </view>
+      <view class="textbox fs30 fcff">
+        <view>logincat</view>
+        <view>此应用开发者</view>
+      </view>
+    </view>
+  </view>
+  
+</view>
